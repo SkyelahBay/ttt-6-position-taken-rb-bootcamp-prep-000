@@ -2,5 +2,5 @@
 
 def position_taken?(board, pos)
   index = pos-1
-  if
+  if board[index] == "   "
   
